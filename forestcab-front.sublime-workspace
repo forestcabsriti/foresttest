@@ -1,0 +1,1187 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"reser",
+				"reservation"
+			],
+			[
+				"reservation",
+				"reservationId"
+			],
+			[
+				"reserv",
+				"reservations"
+			],
+			[
+				"sele",
+				"selectedPlan"
+			],
+			[
+				"cal",
+				"calculateAll"
+			],
+			[
+				"payment",
+				"paymentType"
+			],
+			[
+				"login",
+				"loginForm"
+			],
+			[
+				"to",
+				"toAddress"
+			],
+			[
+				"btn-l",
+				"btn-block"
+			],
+			[
+				"create",
+				"create_payment_json"
+			],
+			[
+				"redire",
+				"redirectionUrl"
+			],
+			[
+				"defer",
+				"defer"
+			],
+			[
+				"selected",
+				"selectedPlan"
+			],
+			[
+				"users",
+				"usersApi"
+			],
+			[
+				"registration",
+				"registration-form"
+			],
+			[
+				"registra",
+				"registrationForm"
+			],
+			[
+				"startDate",
+				"startDateTime"
+			],
+			[
+				"start",
+				"startDateTime"
+			],
+			[
+				"curr",
+				"current"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "routes/users.js",
+			"settings":
+			{
+				"buffer_size": 411,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "views/home/contact.ejs",
+			"settings":
+			{
+				"buffer_size": 6508,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "views/shared/footer.ejs",
+			"settings":
+			{
+				"buffer_size": 2818,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "routes/api/api.contact.js",
+			"settings":
+			{
+				"buffer_size": 1340,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "public/assets/js/reservation-list.js",
+			"settings":
+			{
+				"buffer_size": 744,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "views/home/index.ejs",
+			"settings":
+			{
+				"buffer_size": 40825,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "less/custom.less",
+			"settings":
+			{
+				"buffer_size": 73,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "public/assets/js/reservation.js",
+			"settings":
+			{
+				"buffer_size": 11962,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "public/assets/js/theme.js",
+			"settings":
+			{
+				"buffer_size": 57923,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "routes/api/api.plans.js",
+			"settings":
+			{
+				"buffer_size": 987,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "services/calculator.js",
+			"settings":
+			{
+				"buffer_size": 805,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "views/reservation/list.ejs",
+			"settings":
+			{
+				"buffer_size": 9413,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "routes/reservation.js",
+			"settings":
+			{
+				"buffer_size": 2351,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "routes/api/api.reservation.js",
+			"settings":
+			{
+				"buffer_size": 6229,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "views/reservation/success.ejs",
+			"settings":
+			{
+				"buffer_size": 3454,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Tools/Apache24/conf/httpd.conf",
+			"settings":
+			{
+				"buffer_size": 19672,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app.js",
+			"settings":
+			{
+				"buffer_size": 4149,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "routes/index.js",
+			"settings":
+			{
+				"buffer_size": 1834,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "less/login.less",
+			"settings":
+			{
+				"buffer_size": 65,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 420.0,
+		"last_filter": "set html",
+		"selected_items":
+		[
+			[
+				"set html",
+				"Set Syntax: HTML"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"packagema",
+				"Package Control: Remove Package"
+			],
+			[
+				"set java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"instal",
+				"Install Package Control"
+			]
+		],
+		"width": 1080.0
+	},
+	"console":
+	{
+		"height": 363.0,
+		"history":
+		[
+			"grunt watch"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Projects/Karizma/forestcab-front",
+		"/C/Projects/Karizma/forestcab-front/bin",
+		"/C/Projects/Karizma/forestcab-front/less",
+		"/C/Projects/Karizma/forestcab-front/public",
+		"/C/Projects/Karizma/forestcab-front/public/assets",
+		"/C/Projects/Karizma/forestcab-front/public/assets/js",
+		"/C/Projects/Karizma/forestcab-front/routes",
+		"/C/Projects/Karizma/forestcab-front/routes/api",
+		"/C/Projects/Karizma/forestcab-front/services",
+		"/C/Projects/Karizma/forestcab-front/views",
+		"/C/Projects/Karizma/forestcab-front/views/home",
+		"/C/Projects/Karizma/forestcab-front/views/reservation",
+		"/C/Projects/Karizma/forestcab-front/views/shared",
+		"/C/Users/Marwan/AppData/Local/Temp/Rar$DRa0.818/bootstrap-datepicker-master/dist"
+	],
+	"file_history":
+	[
+		"/C/Projects/Karizma/forestcab-front/routes/api/api.reservation.js",
+		"/C/Projects/Karizma/forestcab-front/less/reservation.less",
+		"/C/Projects/Karizma/forestcab-front/public/assets/js/login.js",
+		"/C/Projects/Karizma/forestcab-front/public/assets/js/contact.js",
+		"/C/Projects/Karizma/forestcab-front/routes/api/api.users.js",
+		"/C/Projects/Karizma/forestcab-front/views/user/login.ejs",
+		"/C/Projects/Karizma/forestcab-front/less/custom.less",
+		"/C/Projects/Karizma/forestcab-front/less/general.less",
+		"/C/Projects/Karizma/forestcab-front/views/home/about.ejs",
+		"/C/Projects/Karizma/forestcab-front/views/shared/header.ejs",
+		"/C/Projects/Karizma/forestcab-front/views/shared/footer.ejs",
+		"/C/Projects/Karizma/forestcab-front/routes/reservation.js",
+		"/C/Users/Marwan/Downloads/index-2.html",
+		"/C/Projects/Karizma/forestcab-front/public/assets/js/reservation.js",
+		"/C/Projects/Karizma/forestcab-front/services/calculator.js",
+		"/C/Projects/Karizma/forestcab-front/routes/api/api.plans.js",
+		"/C/Projects/Karizma/forestcab-front/routes/users.js",
+		"/C/Projects/Karizma/forestcab-front/views/reservation/success.ejs",
+		"/C/Users/Marwan/Downloads/index.html",
+		"/C/Projects/Karizma/forestcab-front/public/assets/js/theme.js",
+		"/C/Projects/Karizma/forestcab-front/public/assets/js/theme-config.js",
+		"/C/Projects/Karizma/forestcab-front/public/assets/js/theme-config.css",
+		"/C/Projects/Karizma/rentit-multipage/rentit-multipage/login.html",
+		"/C/Tools/Apache24/conf/extra/httpd-vhosts.conf",
+		"/C/Projects/Karizma/forestcab-front/routes/index.js",
+		"/C/Program Files (x86)/Vim/_vimrc",
+		"/C/Users/Marwan/.vimrc",
+		"/C/Projects/DWS/iApply/Source/Server/iSolutions.iApply.Forms/iSolutions.iApply.Forms.Service/PaymentCallbackHandler.ashx",
+		"/C/Projects/DWS/iApply/Source/Server/iSolutions.iApply.Forms/iSolutions.iApply.Forms.Service/PaymentCallbackHandler.ashx.cs",
+		"/C/Tools/setcolor.vim",
+		"/C/Projects/DWS/iApply/Source/Server/iSolutions.iApply.Forms/iSolutions.iApply.Forms.Service/Redirect.ashx",
+		"/C/Users/Marwan/.vim/_vimrc",
+		"/C/Users/Marwan/AppData/Local/Temp/Rar$DIa0.552/Sources",
+		"/C/Users/Marwan/_viminfo",
+		"/C/Projects/Karizma/forestcab-front/views/home/index.ejs",
+		"/C/Projects/Karizma/forestcab-front/app.js",
+		"/C/Projects/Karizma/forestcab-front/routes/api/api.cars.js",
+		"/C/Projects/Karizma/forestcab-front/views/shared/error.ejs",
+		"/C/Projects/Karizma/forestcab-front/bin/www",
+		"/C/Projects/Karizma/forestcab-front/node_modules/express/package.json",
+		"/C/Projects/Karizma/forestcab-front/node_modules/express/Readme.md",
+		"/C/New folder/index.js",
+		"/C/Users/Marwan/AppData/Roaming/Sublime Text 3/Packages/Javascript Beautify/Default (Windows).sublime-keymap",
+		"/C/Users/Marwan/AppData/Roaming/Sublime Text 3/Packages/Javascript Beautify/JavascriptBeautify.sublime-settings",
+		"/C/Users/Marwan/AppData/Roaming/Sublime Text 3/Packages/User/JavascriptBeautify.sublime-settings",
+		"/C/Projects/Karizma/forestcab-front/package.json",
+		"/C/New folder/views/error.jade",
+		"/C/Projects/Karizma/forestcab-front/views/header.ejs",
+		"/C/Projects/Karizma/forestcab-front/routes/api.cars.js",
+		"/C/Projects/Karizma/forestcab-front/public/assets/css/custom.css",
+		"/C/Users/Marwan/AppData/Roaming/Sublime Text 3/Packages/CodeFormatter/Default (Windows).sublime-keymap",
+		"/C/Projects/Karizma/forestcab-front/views/footer.ejs",
+		"/C/Projects/Karizma/forestcab-front/forestcab-front.sublime-project",
+		"/C/Tools/Apache24/conf/httpd.conf"
+	],
+	"find":
+	{
+		"height": 80.0
+	},
+	"find_in_files":
+	{
+		"height": 220.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"loginErrors",
+			"loginForm",
+			"heur",
+			"heure",
+			"period",
+			"3",
+			"scroll",
+			"jour",
+			"valid",
+			"selectedPlanId",
+			"next-b",
+			"calculateAll",
+			"next",
+			"current()",
+			"initMap",
+			"loading",
+			"current() ==",
+			"initMap",
+			"initmap",
+			"duration =",
+			"end",
+			"login",
+			"password",
+			"cookieSession",
+			"map",
+			"});\n",
+			"initmap",
+			"isperiod",
+			"end-date-container",
+			"runtimepath",
+			"libaprutil1",
+			"paypal_token",
+			"\"assets/",
+			"assets/",
+			"fromaddress",
+			"plan",
+			".next-btn",
+			"selectedPlan",
+			"initMap",
+			"registration-form",
+			"datepicker",
+			"startDate =",
+			"toggleButtonsState",
+			"valid",
+			"preload",
+			"date",
+			"my-loc",
+			"message",
+			"toLong"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"contactErrors",
+			"contactForm",
+			"\"/assets/",
+			"/assets/"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 13,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "routes/users.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 411,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "views/home/contact.ejs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6508,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								344,
+								344
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"word_wrap": false
+						},
+						"translation.x": 154.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "views/shared/footer.ejs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2818,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2506,
+								2506
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1240.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "routes/api/api.contact.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1340,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1077,
+								1077
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 883.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "public/assets/js/reservation-list.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 744,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								262,
+								262
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "views/home/index.ejs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 40825,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								35901,
+								35901
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 21309.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "less/custom.less",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 73,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LESS/LESS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "public/assets/js/reservation.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11962,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9040,
+								9040
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 12884.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 17,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "public/assets/js/theme.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 57923,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4896,
+								4896
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 5061.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 16,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "routes/api/api.plans.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 987,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "services/calculator.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 805,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								630,
+								630
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "views/reservation/list.ejs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9413,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2133,
+								2133
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"word_wrap": false
+						},
+						"translation.x": 1304.0,
+						"translation.y": 1323.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "routes/reservation.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2351,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1458,
+								1458
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2005.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "routes/api/api.reservation.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6229,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3116,
+								3116
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 585.0,
+						"translation.y": 2657.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "views/reservation/success.ejs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3454,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1779,
+								1769
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 287.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "/C/Tools/Apache24/conf/httpd.conf",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 19672,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1852,
+								1835
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 898.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 18,
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4149,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3682,
+								3682
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 4335.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"file": "routes/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1834,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								235,
+								235
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 172.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 18,
+					"file": "less/login.less",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 65,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								60,
+								60
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/LESS/LESS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 77.0
+	},
+	"input":
+	{
+		"height": 80.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "forestcab-front.sublime-project",
+	"replace":
+	{
+		"height": 150.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"contactejs",
+				"forestcab-front\\views\\home\\contact.ejs"
+			],
+			[
+				"footer",
+				"forestcab-front\\views\\shared\\footer.ejs"
+			],
+			[
+				"listejs",
+				"forestcab-front\\views\\reservation\\list.ejs"
+			],
+			[
+				"footerj",
+				"forestcab-front\\views\\shared\\footer.ejs"
+			],
+			[
+				"conta",
+				"forestcab-front\\views\\home\\contact.ejs"
+			],
+			[
+				"loginjs",
+				"forestcab-front\\public\\assets\\js\\login.js"
+			],
+			[
+				"indexej",
+				"forestcab-front\\views\\home\\index.ejs"
+			],
+			[
+				"themejs",
+				"forestcab-front\\public\\assets\\js\\theme.js"
+			],
+			[
+				"ejs",
+				"forestcab-front\\views\\home\\index.ejs"
+			],
+			[
+				"footerjs",
+				"forestcab-front\\views\\shared\\footer.ejs"
+			],
+			[
+				"header",
+				"forestcab-front\\views\\shared\\header.ejs"
+			],
+			[
+				"heaer",
+				"views\\header.ejs"
+			],
+			[
+				"head",
+				"views\\header.ejs"
+			],
+			[
+				"foot",
+				"views\\footer.ejs"
+			],
+			[
+				"reser",
+				"public\\assets\\js\\reservation.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 732.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,38 @@
+{
+  "name": "forestcab-front",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "nodemon ./bin/www"
+  },
+  "dependencies": {
+    "body-parser": "~1.15.2",
+    "cookie-parser": "~1.4.3",
+    "cookie-session": "^2.0.0-alpha.2",
+    "debug": "~2.2.0",
+    "ejs": "^2.5.5",
+    "express": "~4.14.0",
+    "express-session": "^1.14.2",
+    "jade": "~1.11.0",
+    "lodash": "^4.17.4",
+    "moment": "^2.17.1",
+    "mongodb": "^2.2.19",
+    "monk": "^3.1.3",
+    "morgan": "~1.7.0",
+    "node.extend": "^1.1.6",
+    "parse": "^1.9.2",
+    "passport": "^0.3.2",
+    "passport-local": "^1.0.0",
+    "paypal-rest-sdk": "^1.7.1",
+    "q": "^1.4.1",
+    "serve-favicon": "~2.3.0"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-contrib-jshint": "~0.10.0",
+    "grunt-contrib-less": "^1.2.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-usemin": "^3.1.1",
+    "nodemon": "^1.11.0"
+  }
+}

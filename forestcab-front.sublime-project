@@ -1,0 +1,15 @@
+{
+	"folders":
+	[
+		{
+			"folder_exclude_patterns":
+			[
+				"node_modules"
+			],
+			"path": "."
+		},
+		{
+			"path": "C:\\Users\\Marwan\\AppData\\Local\\Temp\\Rar$DRa0.818\\bootstrap-datepicker-master\\dist"
+		}
+	]
+}
